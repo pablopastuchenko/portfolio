@@ -189,7 +189,7 @@ export const projects = [
       "Dotenv",
       "Axios"
     ],
-    category: "web app",
+    category: "backend",
     github: "https://github.com/pablopastuchenko/auth-backend",
     webapp: "",
   },
@@ -200,7 +200,7 @@ export const projects = [
     description:
       "Um projeto de back-end onde uma API RESTful foi desenvolvida para gerenciar operações de restaurantes, como pedidos, cardápios e clientes. Construída com Node.js e Express, a API fornece endpoints seguros e escaláveis, com autenticação via JWT para proteção dos dados. O armazenamento de dados é feito com MongoDB, garantindo flexibilidade e performance nas consultas. A documentação completa facilita a integração e uso por outros desenvolvedores, tornando o sistema uma solução ideal para automatizar e digitalizar as operações de restaurantes.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
     tags: ["JavaScript", "MongoDb", "Node Js", "Express Js", "JsonWebToken", "Dotenv", 'Cors'],
     category: "backend",
     github: "https://github.com/pablopastuchenko/restaurant-backend",
@@ -233,7 +233,7 @@ export const projects = [
     description:
       "é uma plataforma web desenvolvida para a venda de cursos online. Utilizando AWS para hospedagem e banco de dados MySQL para armazenamento de informações, a aplicação permite que os usuários naveguem por diferentes cursos e realizem compras com segurança. O projeto tem foco em escalabilidade e eficiência, proporcionando uma interface amigável e de fácil navegação. Com uma documentação clara, ele também oferece uma boa base para contribuições de desenvolvedores interessados em expandir suas funcionalidades.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
     tags: ["React", "JavaScript", "Node", "Axios", "AWS", "MySQL", "Express", "JSON"],
     category: "backend",
     github: "https://github.com/pablopastuchenko/Course-Page ",
@@ -247,7 +247,7 @@ export const projects = [
     description:
       "É um projeto de sistema de entrega que implementa funcionalidades essenciais para gerenciar pedidos, entregadores e clientes. Utiliza uma arquitetura de back-end robusta, proporcionando uma API RESTful escalável e segura. O sistema permite a autenticação de usuários e a manipulação eficiente de dados, facilitando o acompanhamento de pedidos em tempo real. O projeto demonstra habilidades em desenvolvimento Full Stack e integração de tecnologias modernas. É uma ótima adição ao portfólio, destacando a capacidade de criar soluções práticas para problemas do mundo real.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
     tags: ["JavaScript", "Node", "Axios", "AWS", "MySQL", "Express", "JSON", "Stripe"],
     category: "backend",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
@@ -260,9 +260,9 @@ export const projects = [
     description:
       "O repositório CRUD é uma aplicação que permite realizar operações básicas de gerenciamento de dados, como criar, ler, atualizar e deletar registros. Desenvolvida com Node.js e Express para o backend, utiliza MongoDB como banco de dados para armazenar informações. A aplicação possui uma interface frontend construída com React, proporcionando uma experiência de usuário interativa. O projeto é ideal para aprender sobre integração entre tecnologias e construção de APIs RESTful.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
     tags: ["JavaScript", "Nodejs", "Express", 'MongoDB', "Mongoose"],
-    category: "android app",
+    category: "backend",
     github: "https://github.com/pablopastuchenko/crud",
     webapp: "https://github.com/pablopastuchenko/crud",
   },
