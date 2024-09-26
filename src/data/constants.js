@@ -163,7 +163,7 @@ export const education = [
     date: "2023",
     grade: "90%",
     desc: "No curso de JavaScript Full Stack no OneBitCode, desenvolvi uma compreensão sólida dos princípios do desenvolvimento web, abrangendo tanto o front-end quanto o back-end. Aprendi a criar aplicações dinâmicas e interativas, explorando conceitos avançados de JavaScript, incluindo ES6 e funções assíncronas. O curso me proporcionou experiência prática com Node.js e Express, onde construí APIs RESTful e desenvolvi habilidades em gerenciamento de rotas e manipulação de requisições.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    degree: "Programador FullStack JavaScript",
   },
   
 ];

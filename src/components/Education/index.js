@@ -81,9 +81,9 @@ const index = () => {
     return (
         <Container id="education">
             <Wrapper>
-                <Title>Education</Title>
+                <Title>Educação</Title>
                 <Desc>
-                    My education has been a journey of self-discovery and growth. My educational details are as follows.
+                Minha educação tem sido uma jornada de autodescoberta e crescimento. Meus detalhes educacionais são os seguintes.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
