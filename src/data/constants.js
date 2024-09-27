@@ -10,7 +10,7 @@ export const Bio = {
     "Sou um profissional apaixonado por tecnologia e desenvolvimento, sempre buscando novos desafios para crescer e aprender. Comprometido com a qualidade e eficiência, tenho uma atitude positiva e uma mentalidade de crescimento. Estou pronto para colaborar em equipes e contribuir para projetos inovadores, fazendo a diferença no meu caminho profissional.",
   github: "https://github.com/pablopastuchenko",
   resume:
-    "https://drive.google.com/file/d/1zgh5xxMV3CvMqmVMlzd0BdvTZMhYaK5O/view?usp=sharing",
+    "https://drive.google.com/file/d/1s1PtZjKPXnaH2e0BSDA-w20KtYIN5oIG/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/pastuchenko/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/ppastuchenko/",
