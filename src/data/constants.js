@@ -280,7 +280,7 @@ export const projects = [
     webapp: "https://car-show-case-fawn.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Req Ops",
     date: "10/2024",
     description:
@@ -291,6 +291,19 @@ export const projects = [
     category: "android app",
     github: "https://github.com/pablopastuchenko/landing",
     webapp: "https://landing-mu-one-35.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Hilink ",
+    date: "10/2024",
+    description:
+      "O projeto WebsiteFront de Pablo é uma aplicação front-end construída com foco em responsividade e design moderno. Ele utiliza React para a construção da interface de usuário, Tailwind CSS para a estilização de componentes e Next.js para renderização no lado do servidor. Além disso, é integrado com TypeScript para maior segurança e consistência de código. A aplicação é projetada para ser escalável e eficiente, aproveitando as funcionalidades de otimização e roteamento do Next.js.",
+    image:
+      "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
+    tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js"],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/WebsiteFront",
+    webapp: "https://website-front-woad.vercel.app/",
   },
 
   
