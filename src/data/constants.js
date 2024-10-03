@@ -274,10 +274,23 @@ export const projects = [
       "O projeto Sass Page é uma aplicação web que utiliza a tecnologia Sass para estilização, permitindo um desenvolvimento de CSS mais organizado e eficiente. O projeto demonstra como implementar variáveis, aninhamento e mixins, proporcionando uma estrutura flexível e reutilizável. É ideal para desenvolvedores que desejam aprender e aplicar conceitos avançados de Sass em seus projetos. A aplicação é uma excelente base para criação de páginas com design responsivo e moderno..",
     image:
       "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
-    tags: ["React", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js"],
+    tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js", 'RapidAPI'],
     category: "android app",
     github: "https://github.com/pablopastuchenko/Car_ShowCase",
-    webapp: "https://car-show-case-fawn.vercel.app/?manufacturer=alfa+romeo",
+    webapp: "https://car-show-case-fawn.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Req Ops",
+    date: "10/2024",
+    description:
+      "é uma landing page moderna e responsiva, desenvolvida para capturar a atenção de visitantes com design simplificado e informações claras. O projeto utiliza Next.js como framework, Tailwind CSS para estilização, e TypeScript para garantir tipagem estática. Além disso, React é a biblioteca principal usada para construção da interface, com Autoprefixer e PostCSS auxiliando na compatibilidade entre navegadores.",
+    image:
+      "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
+    tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js"],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/landing",
+    webapp: "https://landing-mu-one-35.vercel.app/",
   },
 
   
