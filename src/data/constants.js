@@ -273,7 +273,7 @@ export const projects = [
     description:
       "O projeto Sass Page é uma aplicação web que utiliza a tecnologia Sass para estilização, permitindo um desenvolvimento de CSS mais organizado e eficiente. O projeto demonstra como implementar variáveis, aninhamento e mixins, proporcionando uma estrutura flexível e reutilizável. É ideal para desenvolvedores que desejam aprender e aplicar conceitos avançados de Sass em seus projetos. A aplicação é uma excelente base para criação de páginas com design responsivo e moderno..",
     image:
-      "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
+      "https://github.com/user-attachments/assets/3328c041-1540-4781-b2c9-d9dc37a64c5a",
     tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js", 'RapidAPI'],
     category: "android app",
     github: "https://github.com/pablopastuchenko/Car_ShowCase",
