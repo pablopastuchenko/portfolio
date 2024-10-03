@@ -191,7 +191,7 @@ export const projects = [
     ],
     category: "backend",
     github: "https://github.com/pablopastuchenko/auth-backend",
-    webapp: "",
+    webapp: "https://github.com/pablopastuchenko/auth-backend",
   },
   {
     id: 0,
@@ -204,7 +204,7 @@ export const projects = [
     tags: ["JavaScript", "MongoDb", "Node Js", "Express Js", "JsonWebToken", "Dotenv", 'Cors'],
     category: "backend",
     github: "https://github.com/pablopastuchenko/restaurant-backend",
-    webapp: "",
+    webapp: "https://github.com/pablopastuchenko/restaurant-backend",
   },
   {
     id: 1,
@@ -224,7 +224,7 @@ export const projects = [
     ],
     category: "android app",
     github: "https://github.com/pablopastuchenko/landing",
-    webapp: "",
+    webapp: "https://github.com/pablopastuchenko/landing",
   },
   {
     id: 2,
@@ -236,8 +236,8 @@ export const projects = [
       "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
     tags: ["React", "JavaScript", "Node", "Axios", "AWS", "MySQL", "Express", "JSON"],
     category: "backend",
-    github: "https://github.com/pablopastuchenko/Course-Page ",
-    webapp: "",
+    github: "https://github.com/pablopastuchenko/Course-Page",
+    webapp: "https://github.com/pablopastuchenko/Course-Page",
     
   },
   {
@@ -250,8 +250,8 @@ export const projects = [
       "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
     tags: ["JavaScript", "Node", "Axios", "AWS", "MySQL", "Express", "JSON", "Stripe"],
     category: "backend",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/pablopastuchenko/delivery",
+    webapp: "https://github.com/pablopastuchenko/delivery",
   },
   {
     id: 4,
@@ -265,6 +265,19 @@ export const projects = [
     category: "backend",
     github: "https://github.com/pablopastuchenko/crud",
     webapp: "https://github.com/pablopastuchenko/crud",
+  },
+  {
+    id: 5,
+    title: "Car Hub",
+    date: "10/2024",
+    description:
+      "O projeto Sass Page é uma aplicação web que utiliza a tecnologia Sass para estilização, permitindo um desenvolvimento de CSS mais organizado e eficiente. O projeto demonstra como implementar variáveis, aninhamento e mixins, proporcionando uma estrutura flexível e reutilizável. É ideal para desenvolvedores que desejam aprender e aplicar conceitos avançados de Sass em seus projetos. A aplicação é uma excelente base para criação de páginas com design responsivo e moderno..",
+    image:
+      "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
+    tags: ["React", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js"],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/Car_ShowCase",
+    webapp: "https://car-show-case-fawn.vercel.app/?manufacturer=alfa+romeo",
   },
 
   
