@@ -286,7 +286,7 @@ export const projects = [
     description:
       "é uma landing page moderna e responsiva, desenvolvida para capturar a atenção de visitantes com design simplificado e informações claras. O projeto utiliza Next.js como framework, Tailwind CSS para estilização, e TypeScript para garantir tipagem estática. Além disso, React é a biblioteca principal usada para construção da interface, com Autoprefixer e PostCSS auxiliando na compatibilidade entre navegadores.",
     image:
-      "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
+      "https://github.com/user-attachments/assets/42a9465e-f916-403c-af34-39fbffff3250",
     tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js"],
     category: "android app",
     github: "https://github.com/pablopastuchenko/landing",
@@ -299,7 +299,7 @@ export const projects = [
     description:
       "O projeto WebsiteFront de Pablo é uma aplicação front-end construída com foco em responsividade e design moderno. Ele utiliza React para a construção da interface de usuário, Tailwind CSS para a estilização de componentes e Next.js para renderização no lado do servidor. Além disso, é integrado com TypeScript para maior segurança e consistência de código. A aplicação é projetada para ser escalável e eficiente, aproveitando as funcionalidades de otimização e roteamento do Next.js.",
     image:
-      "https://github.com/user-attachments/assets/2b4fc754-b5c8-44fa-a510-fdbb35bcf3a8",
+      "https://github.com/user-attachments/assets/e76c72eb-c86b-4048-8b74-a9b8a99140d1",
     tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js"],
     category: "android app",
     github: "https://github.com/pablopastuchenko/WebsiteFront",
