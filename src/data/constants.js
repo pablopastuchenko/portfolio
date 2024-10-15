@@ -55,6 +55,11 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
+      {
+        name: "TypeScript",
+        image:
+          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+      },
       
         
     ],
@@ -278,6 +283,19 @@ export const projects = [
     category: "android app",
     github: "https://github.com/pablopastuchenko/Car_ShowCase",
     webapp: "https://car-show-case-fawn.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Responsive",
+    date: "10/2024",
+    description:
+      "O site Responsive é uma aplicação desenvolvida com Next.js e TypeScript, focada em design responsivo. Utiliza Tailwind CSS para estilização, proporcionando uma experiência visual moderna e adaptativa em diferentes dispositivos. A hospedagem é feita via Vercel, garantindo um deploy contínuo e rápido. Além disso, a estrutura do projeto prioriza boas práticas de desenvolvimento, com configuração de ESLint para manter o código limpo e padronizado.",
+    image:
+      "https://github.com/user-attachments/assets/3328c041-1540-4781-b2c9-d9dc37a64c5a",
+    tags: ["TypeScript", "TailwindCSS", "ESlint", 'PostCSS', "Vite", "Next.js", ],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/responsive",
+    webapp: "https://responsive-rho-tan.vercel.app/",
   },
   {
     id: 6,
