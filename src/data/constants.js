@@ -161,7 +161,7 @@ export const education = [
     date: "2024",
     grade: "Em andamento",
     desc: "Estou atualmente realizando um curso de Análise e Desenvolvimento para aprimorar minhas habilidades atuais no desenvolvimento de software. Esse curso me proporciona uma compreensão mais profunda das práticas de programação, design de sistemas e metodologias ágeis, permitindo-me aplicar técnicas mais eficazes e modernas em meus projetos. Com essa formação, busco me destacar ainda mais na criação de aplicações robustas e eficientes.",
-    degree: "Analista e Desenvolvedor de Sistemas",
+    degree: "Análise e Desenvolvimento de Sistema",
   },
   {
     id: 1,
