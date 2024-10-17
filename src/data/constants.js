@@ -141,7 +141,7 @@ export const experiences = [
     role: "Informática 2019",
     company: "Senai",
     date: "Fev 2019 - Dez 2019",
-    desc: "Faziamos aplicações Web",
+    desc: "Durante o curso de Informática, fui remunerado por criar sites e trabalhar em diversos projetos relacionados à tecnologia da informação. Essa experiência me proporcionou habilidades práticas em desenvolvimento web e me preparou para desafios na área.",
     skills: [
       "JavaScript",
       'CSS',
