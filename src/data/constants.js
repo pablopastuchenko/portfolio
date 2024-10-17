@@ -175,7 +175,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 3,
     title: "Advanced Auth",
     date: "Jun 2023 - Jul 2023",
     description:
