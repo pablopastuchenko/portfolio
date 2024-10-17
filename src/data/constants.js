@@ -273,6 +273,32 @@ export const projects = [
   },
   {
     id: 5,
+    title: "Calendar",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "O projeto Calendar foi desenvolvido utilizando Node.js e Express para a construção de uma API RESTful que gerencia eventos e disponibiliza a funcionalidade de agendamento. O banco de dados utilizado é o PostgreSQL, que garante uma gestão robusta de dados. O projeto também implementa autenticação usando JWT (JSON Web Tokens) para garantir a segurança das rotas, além de usar o Sequelize como ORM para facilitar a interação com o banco de dados.",
+    image:
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
+    tags: ["TypeScript", "Nodejs", "Express", 'PostgreSQL', "Sequelize", "Prisma", ],
+    category: "backend",
+    github: "https://github.com/pablopastuchenko/calendar",
+    webapp: "https://github.com/pablopastuchenko/calendar",
+  },
+  {
+    id: 6,
+    title: "Calendar",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "O projeto Calendar foi desenvolvido utilizando Node.js e Express para a construção de uma API RESTful que gerencia eventos e disponibiliza a funcionalidade de agendamento. O banco de dados utilizado é o PostgreSQL, que garante uma gestão robusta de dados. O projeto também implementa autenticação usando JWT (JSON Web Tokens) para garantir a segurança das rotas, além de usar o Sequelize como ORM para facilitar a interação com o banco de dados.",
+    image:
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
+    tags: ["TypeScript", "Nodejs", "Express", 'PostgreSQL', "Sequelize", "Prisma", ],
+    category: "backend",
+    github: "https://github.com/pablopastuchenko/Sass",
+    webapp: "https://github.com/pablopastuchenko/Sass",
+  },
+  {
+    id: 5,
     title: "Car Hub",
     date: "10/2024",
     description:
