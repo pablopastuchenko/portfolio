@@ -25,7 +25,7 @@ const Navbar = () => {
         <NavItems>
           <NavLink href="#about">Sobre</NavLink>
           <NavLink href='#skills'>Habilidades</NavLink>
-          
+          <NavLink href='#experience'>Experiência</NavLink>
           <NavLink href='#projects'>Projetos</NavLink>
           <NavLink href='#education'>Educação</NavLink>
         </NavItems>
