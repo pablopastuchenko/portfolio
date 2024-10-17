@@ -78,9 +78,9 @@ const index = () => {
     return (
         <Container id="experience">
             <Wrapper>
-                <Title>Experience</Title>
+                <Title>Experiências</Title>
                 <Desc>
-                    My work experience as a software engineer and working on different companies and projects.
+                Minha experiência de trabalho.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
