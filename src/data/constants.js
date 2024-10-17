@@ -14,7 +14,7 @@ export const Bio = {
   linkedin: "https://www.linkedin.com/in/pastuchenko/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/ppastuchenko/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  facebook: "",
 };
 
 export const skills = [
