@@ -137,7 +137,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Fsenai-logo%2F&psig=AOvVaw2LKNxNxurlyXKQQlKLlPHD&ust=1729257565625000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJij-crAlYkDFQAAAAAdAAAAABAE",
+    img: "https://github.com/user-attachments/assets/bf39b96d-0378-4b77-903d-f154b462a035",
     role: "Informática 2019",
     company: "Senai",
     date: "Fev 2019 - Dez 2019",
@@ -156,10 +156,19 @@ export const experiences = [
 export const education = [
   {
     id: 0,
+    img: "https://github.com/user-attachments/assets/de2a534d-b3bb-4e21-828b-f6a85c400cdf",
+    Curso: "Análise e Desenvolvimento de Sistema",
+    date: "2024",
+    grade: "Em andamento",
+    desc: "Estou atualmente realizando um curso de Análise e Desenvolvimento para aprimorar minhas habilidades atuais no desenvolvimento de software. Esse curso me proporciona uma compreensão mais profunda das práticas de programação, design de sistemas e metodologias ágeis, permitindo-me aplicar técnicas mais eficazes e modernas em meus projetos. Com essa formação, busco me destacar ainda mais na criação de aplicações robustas e eficientes.",
+    degree: "Analista e Desenvolvedor de Sistemas",
+  },
+  {
+    id: 1,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyVTrzHrvzosdkgi4efTy1t7b5MctOuXwYA&s",
     Curso: "FullStack JavaScript",
     date: "2023",
-    grade: "90%",
+    grade: "100%",
     desc: "No curso de JavaScript Full Stack no OneBitCode, desenvolvi uma compreensão sólida dos princípios do desenvolvimento web, abrangendo tanto o front-end quanto o back-end. Aprendi a criar aplicações dinâmicas e interativas, explorando conceitos avançados de JavaScript, incluindo ES6 e funções assíncronas. O curso me proporcionou experiência prática com Node.js e Express, onde construí APIs RESTful e desenvolvi habilidades em gerenciamento de rotas e manipulação de requisições.",
     degree: "Programador FullStack JavaScript",
   },
