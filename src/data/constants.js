@@ -234,6 +234,26 @@ export const projects = [
     webapp: "https://github.com/pablopastuchenko/landing",
   },
   {
+    id: 1,
+    title: "RCommerce front",
+    date: "Oct 2022 - Present",
+    description:
+      "O site Commerce Front hospedado no Vercel parece ser um frontend de e-commerce moderno, voltado para oferecer uma experiência de compra online. Ele apresenta uma interface limpa e responsiva, com uma estrutura organizada para exibir produtos e facilitar a navegação do usuário. A usabilidade é otimizada para garantir um carregamento rápido e uma interação fluida. Ideal para projetos de comércio eletrônico que buscam um design eficiente e adaptado para dispositivos móveis e desktop.",
+    image:
+      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Vite",
+      "PostCSS",
+      "ESLint",
+      "React Router",
+    ],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/commerce-front",
+    webapp: "https://commerce-front-five.vercel.app/",
+  },
+  {
     id: 2,
     title: "Course-Page",
     date: "Jan 2023 - Mar 2023",
