@@ -215,32 +215,12 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Responsive",
-    date: "Oct 2022 - Present",
-    description:
-      "É uma aplicação front-end minimalista construída com Vite e estilizada com TailwindCSS, focada em desempenho e design responsivo. Ele utiliza JavaScript para o desenvolvimento da interface, com uma estrutura de pastas bem organizada para facilitar a manutenção. O uso de TailwindCSS proporciona flexibilidade na criação de layouts modernos e leves. Além disso, o Vite garante tempos de build rápidos e uma experiência de desenvolvimento eficiente. É ideal para quem busca uma landing page simples e otimizada.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: [
-      "React Js",
-      "TailwindCSS",
-      "Vite",
-      "PostCSS",
-      "ESLint",
-      "NodeMailer",
-    ],
-    category: "android app",
-    github: "https://github.com/pablopastuchenko/landing",
-    webapp: "https://github.com/pablopastuchenko/landing",
-  },
-  {
-    id: 1,
-    title: "RCommerce front",
+    title: "Commerce front",
     date: "Oct 2022 - Present",
     description:
       "O site Commerce Front hospedado no Vercel parece ser um frontend de e-commerce moderno, voltado para oferecer uma experiência de compra online. Ele apresenta uma interface limpa e responsiva, com uma estrutura organizada para exibir produtos e facilitar a navegação do usuário. A usabilidade é otimizada para garantir um carregamento rápido e uma interação fluida. Ideal para projetos de comércio eletrônico que buscam um design eficiente e adaptado para dispositivos móveis e desktop.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://github.com/user-attachments/assets/3f155ed9-84bd-4e4e-9676-22f1ea4b14f6",
     tags: [
       "React Js",
       "TailwindCSS",
@@ -252,6 +232,26 @@ export const projects = [
     category: "android app",
     github: "https://github.com/pablopastuchenko/commerce-front",
     webapp: "https://commerce-front-five.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Stream",
+    date: "Oct 2022 - Present",
+    description:
+      "O projeto Stream, disponível no GitHub, é uma aplicação focada em streaming de conteúdo que permite a transmissão de dados em tempo real, ideal para serviços de vídeo ou áudio. Ele utiliza tecnologias modernas para proporcionar uma experiência de usuário suave e interativa, com ênfase na eficiência no gerenciamento de fluxos de dados. O repositório contém todos os recursos necessários para desenvolver essa funcionalidade, tornando-o útil para desenvolvedores que buscam implementar streaming em suas aplicações.",
+    image:
+      "https://github.com/user-attachments/assets/932760fe-eb5a-4b45-9cd8-fa0dfe93399e",
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Vite",
+      "PostCSS",
+      "ESLint",
+      "React Router",
+    ],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/stream",
+    webapp: "https://stream-two-pearl.vercel.app/",
   },
   {
     id: 2,
