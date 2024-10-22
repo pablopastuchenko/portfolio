@@ -156,7 +156,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://github.com/user-attachments/assets/de2a534d-b3bb-4e21-828b-f6a85c400cdf",
+    img: "https://github.com/user-attachments/assets/19dc4613-267f-49e2-9a19-aa072046c65f",
     Curso: "Análise e Desenvolvimento de Sistema",
     date: "2024",
     grade: "Em andamento",
