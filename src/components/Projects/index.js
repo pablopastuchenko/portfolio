@@ -21,19 +21,19 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
+          
+           {toggle === 'android app' ?
+            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>FRONT END</ToggleButton>
+            :
+            <ToggleButton value="android app" onClick={() => setToggle('android app')}>FRONT END</ToggleButton>
+          }
+          <Divider />
           {toggle === 'backend' ?
             <ToggleButton active value="backend" onClick={() => setToggle('backend')}>BACKEND</ToggleButton>
             :
             <ToggleButton value="backend" onClick={() => setToggle('backend')}>BACKEND</ToggleButton>
           }
           
-          <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>FRONT END</ToggleButton>
-            :
-            <ToggleButton value="android app" onClick={() => setToggle('android app')}>FRONT END</ToggleButton>
-          }
-          <Divider />
           
           
         </ToggleButtonGroup>
