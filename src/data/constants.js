@@ -177,7 +177,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 3,
+    id: 10,
     title: "Advanced Auth",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -201,7 +201,7 @@ export const projects = [
     webapp: "https://github.com/pablopastuchenko/auth-backend",
   },
   {
-    id: 0,
+    id: 10,
     title: "Restaurant Backend",
     date: "Apr 2023 - May 2023",
     description:
@@ -234,7 +234,7 @@ export const projects = [
     webapp: "https://commerce-front-five.vercel.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Stream",
     date: "Oct 2022 - Present",
     description:
@@ -254,7 +254,7 @@ export const projects = [
     webapp: "https://stream-two-pearl.vercel.app/",
   },
   {
-    id: 1,
+    id: 3,
     title: "Recipe",
     date: "Oct 2022 - Present",
     description:
@@ -274,7 +274,7 @@ export const projects = [
     webapp: "https://recipe-khaki-psi.vercel.app/",
   },
   {
-    id: 2,
+    id: 9,
     title: "Course-Page",
     date: "Jan 2023 - Mar 2023",
     description:
@@ -288,7 +288,7 @@ export const projects = [
     
   },
   {
-    id: 3,
+    id: 8,
     title: "Delivery-service",
     date: "Dec 2021 - Apr 2022",
     description:
@@ -301,7 +301,7 @@ export const projects = [
     webapp: "https://github.com/pablopastuchenko/delivery",
   },
   {
-    id: 4,
+    id: 7,
     title: "CRUD",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -314,7 +314,7 @@ export const projects = [
     webapp: "https://github.com/pablopastuchenko/crud",
   },
   {
-    id: 5,
+    id: 7,
     title: "Calendar",
     date: "Jun 2023 - Jul 2023",
     description:
