@@ -158,6 +158,7 @@ export const education = [
     id: 0,
     img: "https://github.com/user-attachments/assets/19dc4613-267f-49e2-9a19-aa072046c65f",
     Curso: "Análise e Desenvolvimento de Sistema",
+    
     date: "2024",
     grade: "Em andamento",
     desc: "Estou atualmente realizando um curso de Análise e Desenvolvimento para aprimorar minhas habilidades atuais no desenvolvimento de software. Esse curso me proporciona uma compreensão mais profunda das práticas de programação, design de sistemas e metodologias ágeis, permitindo-me aplicar técnicas mais eficazes e modernas em meus projetos. Com essa formação, busco me destacar ainda mais na criação de aplicações robustas e eficientes.",
