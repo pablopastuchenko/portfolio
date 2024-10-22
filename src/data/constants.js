@@ -254,6 +254,26 @@ export const projects = [
     webapp: "https://stream-two-pearl.vercel.app/",
   },
   {
+    id: 1,
+    title: "Recipe",
+    date: "Oct 2022 - Present",
+    description:
+      "O projeto Recipe, disponível no GitHub, é uma aplicação voltada para o gerenciamento de receitas culinárias. Ele permite que os usuários busquem, criem e compartilhem receitas de forma intuitiva, promovendo uma experiência culinária interativa. O repositório contém o código-fonte que utiliza tecnologias modernas para garantir uma interface responsiva e fácil de usar, tornando o processo de cozinhar mais acessível. É um recurso valioso para desenvolvedores interessados em criar plataformas de compartilhamento de receitas.",
+    image:
+      "https://github.com/user-attachments/assets/65e3f544-6216-473b-918c-4e382a1ba1e0",
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Vite",
+      "PostCSS",
+      "ESLint",
+      "React Router",
+    ],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/recipe",
+    webapp: "https://recipe-khaki-psi.vercel.app/",
+  },
+  {
     id: 2,
     title: "Course-Page",
     date: "Jan 2023 - Mar 2023",
