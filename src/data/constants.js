@@ -181,7 +181,25 @@ export const projects = [
   
   {
     id: 1,
-    title: "Landing page 3",
+    title: "Landing headhphones",
+    date: "Oct 2022 - Present",
+    description:
+      "utiliza uma interface clean e minimalista para destacar informações essenciais. Com uma estrutura direta, ela possui um design responsivo que se adapta a diferentes dispositivos. Seu foco é apresentar de forma clara o conteúdo ou serviço que a página oferece, permitindo uma navegação rápida e intuitiva para os visitantes, possivelmente com o objetivo de conversão, seja para captar leads ou apresentar um produto de forma eficiente.",
+    image:
+      "https://github.com/user-attachments/assets/e08c1990-2485-47a6-8a5c-6da42123a708",
+    tags: [
+      "HTML",
+      "SCSS",
+      "JavaScript",
+      "Framer Motion"
+    ],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/landing-4",
+    webapp: "https://landing-4-nine.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Landing music",
     date: "Oct 2022 - Present",
     description:
       "utiliza uma interface clean e minimalista para destacar informações essenciais. Com uma estrutura direta, ela possui um design responsivo que se adapta a diferentes dispositivos. Seu foco é apresentar de forma clara o conteúdo ou serviço que a página oferece, permitindo uma navegação rápida e intuitiva para os visitantes, possivelmente com o objetivo de conversão, seja para captar leads ou apresentar um produto de forma eficiente.",
@@ -194,6 +212,7 @@ export const projects = [
       "PostCSS",
       "ESLint",
       "React Router",
+      "Framer Motion"
     ],
     category: "android app",
     github: "https://github.com/pablopastuchenko/landing-3",
@@ -214,6 +233,7 @@ export const projects = [
       "PostCSS",
       "ESLint",
       "React Router",
+      "Framer Motion"
     ],
     category: "android app",
     github: "https://github.com/pablopastuchenko/landing-1",
