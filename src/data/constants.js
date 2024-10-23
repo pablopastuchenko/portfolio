@@ -158,7 +158,7 @@ export const education = [
     id: 0,
     img: "https://github.com/user-attachments/assets/19dc4613-267f-49e2-9a19-aa072046c65f",
     Curso: "Análise e Desenvolvimento de Sistema",
-    
+
     date: "2024",
     grade: "Em andamento",
     desc: "Estou atualmente realizando um curso de Análise e Desenvolvimento para aprimorar minhas habilidades atuais no desenvolvimento de software. Esse curso me proporciona uma compreensão mais profunda das práticas de programação, design de sistemas e metodologias ágeis, permitindo-me aplicar técnicas mais eficazes e modernas em meus projetos. Com essa formação, busco me destacar ainda mais na criação de aplicações robustas e eficientes.",
@@ -177,42 +177,47 @@ export const education = [
 ];
 
 export const projects = [
+  
+  
   {
-    id: 10,
-    title: "Advanced Auth",
-    date: "Jun 2023 - Jul 2023",
+    id: 1,
+    title: "Landing page 3",
+    date: "Oct 2022 - Present",
     description:
-      "Ele integra uma interface de usuário juntamente com a API, oferecendo funcionalidades de registro e login com suporte a JWT. Desenvolvido com Node.js, Express e um framework de front-end, o projeto destaca-se pela escalabilidade e pela experiência de usuário aprimorada. A documentação inclui orientações claras para instalação e uso, tornando-o ideal para desenvolvedores que desejam implementar autenticação em suas aplicações.",
+      "utiliza uma interface clean e minimalista para destacar informações essenciais. Com uma estrutura direta, ela possui um design responsivo que se adapta a diferentes dispositivos. Seu foco é apresentar de forma clara o conteúdo ou serviço que a página oferece, permitindo uma navegação rápida e intuitiva para os visitantes, possivelmente com o objetivo de conversão, seja para captar leads ou apresentar um produto de forma eficiente.",
     image:
-      "https://github.com/user-attachments/assets/3e1677a4-3a0f-4b31-ad07-735524f3805b",
+      "https://github.com/user-attachments/assets/d2b12169-3b1b-4381-b2e5-ca48636776c4",
     tags: [
-      "JavaScript",
-      "MongoDB",
-      "Express",
-      "JWT",
-      "MailTrap",
       "React Js",
-      "JWT",
-      "Mongoose",
-      "Dotenv",
-      "Axios"
+      "TailwindCSS",
+      "Vite",
+      "PostCSS",
+      "ESLint",
+      "React Router",
     ],
-    category: "backend",
-    github: "https://github.com/pablopastuchenko/auth-backend",
-    webapp: "https://github.com/pablopastuchenko/auth-backend",
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/landing-3",
+    webapp: "https://landing-3-dusky.vercel.app/",
   },
   {
-    id: 10,
-    title: "Restaurant Backend",
-    date: "Apr 2023 - May 2023",
+    id: 1,
+    title: "Landing page 1",
+    date: "Oct 2022 - Present",
     description:
-      "Um projeto de back-end onde uma API RESTful foi desenvolvida para gerenciar operações de restaurantes, como pedidos, cardápios e clientes. Construída com Node.js e Express, a API fornece endpoints seguros e escaláveis, com autenticação via JWT para proteção dos dados. O armazenamento de dados é feito com MongoDB, garantindo flexibilidade e performance nas consultas. A documentação completa facilita a integração e uso por outros desenvolvedores, tornando o sistema uma solução ideal para automatizar e digitalizar as operações de restaurantes.",
+      "utiliza uma interface clean e minimalista para destacar informações essenciais. Com uma estrutura direta, ela possui um design responsivo que se adapta a diferentes dispositivos. Seu foco é apresentar de forma clara o conteúdo ou serviço que a página oferece, permitindo uma navegação rápida e intuitiva para os visitantes, possivelmente com o objetivo de conversão, seja para captar leads ou apresentar um produto de forma eficiente.",
     image:
-      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
-    tags: ["JavaScript", "MongoDb", "Node Js", "Express Js", "JsonWebToken", "Dotenv", 'Cors'],
-    category: "backend",
-    github: "https://github.com/pablopastuchenko/restaurant-backend",
-    webapp: "https://github.com/pablopastuchenko/restaurant-backend",
+      "https://github.com/user-attachments/assets/9688551a-966f-422a-8d76-ae96c085056e",
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Vite",
+      "PostCSS",
+      "ESLint",
+      "React Router",
+    ],
+    category: "android app",
+    github: "https://github.com/pablopastuchenko/landing-1",
+    webapp: "https://landing-1-sigma.vercel.app/",
   },
   {
     id: 1,
@@ -326,6 +331,43 @@ export const projects = [
     category: "backend",
     github: "https://github.com/pablopastuchenko/calendar",
     webapp: "https://github.com/pablopastuchenko/calendar",
+  },
+  {
+    id: 10,
+    title: "Restaurant Backend",
+    date: "Apr 2023 - May 2023",
+    description:
+      "Um projeto de back-end onde uma API RESTful foi desenvolvida para gerenciar operações de restaurantes, como pedidos, cardápios e clientes. Construída com Node.js e Express, a API fornece endpoints seguros e escaláveis, com autenticação via JWT para proteção dos dados. O armazenamento de dados é feito com MongoDB, garantindo flexibilidade e performance nas consultas. A documentação completa facilita a integração e uso por outros desenvolvedores, tornando o sistema uma solução ideal para automatizar e digitalizar as operações de restaurantes.",
+    image:
+      "https://github.com/user-attachments/assets/fa9104b4-4531-466f-8626-c693c35675dc",
+    tags: ["JavaScript", "MongoDb", "Node Js", "Express Js", "JsonWebToken", "Dotenv", 'Cors'],
+    category: "backend",
+    github: "https://github.com/pablopastuchenko/restaurant-backend",
+    webapp: "https://github.com/pablopastuchenko/restaurant-backend",
+  },
+  {
+    id: 10,
+    title: "Advanced Auth",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "Ele integra uma interface de usuário juntamente com a API, oferecendo funcionalidades de registro e login com suporte a JWT. Desenvolvido com Node.js, Express e um framework de front-end, o projeto destaca-se pela escalabilidade e pela experiência de usuário aprimorada. A documentação inclui orientações claras para instalação e uso, tornando-o ideal para desenvolvedores que desejam implementar autenticação em suas aplicações.",
+    image:
+      "https://github.com/user-attachments/assets/3e1677a4-3a0f-4b31-ad07-735524f3805b",
+    tags: [
+      "JavaScript",
+      "MongoDB",
+      "Express",
+      "JWT",
+      "MailTrap",
+      "React Js",
+      "JWT",
+      "Mongoose",
+      "Dotenv",
+      "Axios"
+    ],
+    category: "backend",
+    github: "https://github.com/pablopastuchenko/auth-backend",
+    webapp: "https://github.com/pablopastuchenko/auth-backend",
   },
   {
     id: 6,
